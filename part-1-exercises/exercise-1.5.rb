@@ -6,3 +6,4 @@ sentence = 'Hello John Doe!'
 solution = sentence.sub('Hello', 'Hi')
 
 puts solution
+puts sentence.match?(sentence, 0)
