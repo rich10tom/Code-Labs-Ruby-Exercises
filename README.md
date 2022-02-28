@@ -16,6 +16,21 @@ Here is a list of ruby terms and definitions used in class.
 <em>**Gem**</em> - Open source libraries used in Ruby. Equivalent to packages in angular. <br>
 
 ## Part 2
+<em>**Conditional**</em> - Expressions that evaluate to either true or false <br>
+<em>**The difference between if, elseif and else.**</em> - If is a condition with only one argument. elseif has the 
+if condition and then more conditions to evaluate if the if is evaluates to false. Else is what is suppose to be 
+evaluated if the previous condition is false. <br>
+<em>**What are Case/When statements? </em> - type of selection control mechanism used to allow the value of a 
+variable or expression to change the control flow of program execution via a multiway branch. <br>
+<em>**What is a data structure? </em> - Is a format that allows for data organization, storage and manipulation <rb>
+<em>**Arrays**</em> - A list of of ordered values <br>
+<em>**What is meant by 'built-in' methods?**</em> - Methods that are supported by the language without said methods 
+being installed from an external source. <br>
+<em>**Loops**</em> - Blocks of code that is ran repeatedly until the argument resolves to false or if a piece of 
+code explicitly breaks out of the loop. 
+<br>
+<em>**What are infinite loops?**</em> - Loops who's arguments never resolve to false and does not have the ability 
+to break out of the cycle. <br>
 
 ## Part 3
 
