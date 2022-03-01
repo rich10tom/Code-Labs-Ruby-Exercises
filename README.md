@@ -33,5 +33,15 @@ code explicitly breaks out of the loop.
 to break out of the cycle. <br>
 
 ## Part 3
-
+<em>**What is Object Oriented Programming?**</em> - Is a programming methodology that visualizes values, structures, 
+and other data as objects with defined properties.<br>
+<em>**Class inheritance**</em> - Is how a child class inherits the attributes and methods of the parent class. <br>
+<em>**What are getters and setters?**</em> - Getters are used to get the values of an instance variable while 
+setters are used to set the value of a class' instance variable. <br>
+<em>**Difference between class variables and instance variables and class attributes?**</em> -  class variables are 
+shared between a class and all its subclasses, while class instance variables only belong to one specific class. 
+An attribute is just the definition of a storage location. <br>
+<em>**What does self signify in a class?**</em> - self points to the object that "owns" the currently executing code.<br>
+<em>**Modules</em> - Modules are like packages that bundle reusable code that can be called by different parts of 
+the program or by other programs.<br>
 ## Part 4
